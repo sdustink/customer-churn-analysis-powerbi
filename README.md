@@ -2,8 +2,9 @@
 
 A Power BI project focused on analyzing customer churn in a telecommunications company. This project explores customer demographics, contract types, payment plans, data consumption, international calls, and customer service interactions to identify patterns and factors associated with customer churn.
 
-The dataset is based on a **DataCamp case study**.
+Access the published link here:
 
+https://app.powerbi.com/view?r=eyJrIjoiYjc5NGYyZjItY2VmYS00ZjI4LTllMWItYjUzZGJhZGY4YzJlIiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D
 ---
 
 ## 📌 Project Overview
