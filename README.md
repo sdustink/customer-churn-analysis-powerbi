@@ -1,7 +1,5 @@
 # customer-churn-analysis-powerbi
 
-# 📊 Customer Churn Analysis – Telecommunications
-
 A Power BI project focused on analyzing customer churn in a telecommunications company. This project explores customer demographics, contract types, payment plans, data consumption, international calls, and customer service interactions to identify patterns and factors associated with customer churn.
 
 The dataset is based on a **DataCamp case study**.
